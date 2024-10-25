@@ -66,3 +66,17 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+.mid{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  min-height: 100vh;
+  min-width: 100vw;
+}
+.mid h2,p{
+  text-align: center;
+}
+.space{
+  margin: 20px;
+}
